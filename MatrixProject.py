@@ -4,8 +4,6 @@
 
 #  Student Name: Carlos Vazquez
 
-#  Student UT EID: czv72
-
 #  Course Name: M340L
 
 import random
